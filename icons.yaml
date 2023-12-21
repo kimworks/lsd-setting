@@ -1,0 +1,34 @@
+name:
+  .trash: 🗑 
+  .cargo: 🚢
+  .emacs.d: 
+  a.out: 🏃
+extension:
+  go: 🐭
+  hs: 
+  rs: 🦀
+  java: ☕
+  yaml: 🎛
+  bak: 🗄
+  cc: 🐀
+  cpp: 🐀
+  lisp: 👽
+  lsp: 👽
+  l: 👽
+  cl: 👽
+  fasl: 👽
+  clj: λ
+  py: 🐍
+  cfg: 🎚
+
+filetype:
+  dir: 📂
+  file: 📄
+  pipe: 📩
+  socket: 🚿
+  executable: 🚙
+  symlink-dir: 🔗
+  symlink-file: 🖇 
+  device-char: ᛯ 
+  device-block: ■
+  special: ☢
